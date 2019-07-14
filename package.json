@@ -1,0 +1,10 @@
+{
+  "name": "WebTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lebrancconvas <lebranccconvas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.18.1"
+  }
+}
